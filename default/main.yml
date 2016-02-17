@@ -1,0 +1,5 @@
+---
+vnc_default_passwd: steamulo
+vnc_client_res: "1024x600"
+vnc_users:
+  - { name: 'steamulo', vnc_num: 1 }
